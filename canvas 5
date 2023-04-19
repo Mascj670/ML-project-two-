@@ -160,7 +160,7 @@ def process_raw_data(labels_fn, images_fp, my_random_seed, imview=False, test=Fa
 
 #%%
 data_train, data_test, y_train, y_test, imgs_train, imgs_test = process_raw_data(l_file, ci_path, 
-    my_random_seed=74, imview=False, test=False)
+    my_random_seed=99, imview=False, test=False)
 #%% md
 # train Perceptron
 #%%
